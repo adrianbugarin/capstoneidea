@@ -1,1 +1,1 @@
-# capstoneidea
+# projectidea
